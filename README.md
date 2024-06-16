@@ -2,4 +2,3 @@
 - 👀 I’m interested in Programming and Game Development 
 - 🌱 I’m currently learning Java with a bit of Unity in my spare time
 - 💞️ I’m looking to collaborate on any project that might help me develop better and more specialized knowledge 
-- 📫 How to reach me : sent a mail to radualinoficial@gmail.com 
